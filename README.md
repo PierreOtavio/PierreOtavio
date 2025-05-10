@@ -9,15 +9,15 @@
 
 ## 💡 Sobre mim
 
-Sou estudante do 2º ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas no Senac MG. Apaixonado por tecnologia, já atuei em projetos reais como desenvolvedor fullstack, utilizando PHP, Dart, JavaScript, Flutter e Laravel.
+Sou estudante do 2º ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas no Senac MG. Apaixonado por tecnologia, já atuei em projetos reais como desenvolvedor fullstack, utilizando PHP, Dart, JavaScript, Flutter, Laravel e também C#. Tenho experiência tanto com o Visual Studio Code quanto com o Visual Studio IDE, ferramentas que utilizo para desenvolvimento, testes e integração de sistemas.
 
 ---
+
 ## 🌟 Principais Projetos
 
-
-🚗 Sistema de Controle de Veículos
-Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, PHP e Laravel, com foco no gerenciamento de frota e otimização de processos internos.
-🔗 Versão Web: https://github.com/PierreOtavio/teste2910
+🚗 **Sistema de Controle de Veículos**  
+Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, PHP, Laravel, com foco no gerenciamento de frota e otimização de processos internos.  
+🔗 Versão Web: https://github.com/PierreOtavio/teste2910  
 🔗 Versão Mobile: https://github.com/PierreOtavio/flutter-alfa
 
 ---
@@ -27,6 +27,8 @@ Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, P
 - Desenvolvimento fullstack (web e mobile)
 - Projetos práticos, como o sistema de controle de veículos (Alfa Engenharia)
 - Participação em cursos, desafios e projetos em equipe
+- Desenvolvimento em C# para automação e integração de módulos
+- Uso frequente do Visual Studio Code e Visual Studio IDE para codificação e depuração
 
 ---
 
@@ -37,6 +39,9 @@ Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, P
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
@@ -59,4 +64,3 @@ Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, P
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PierreOtavio&color=orange" alt="Profile views"/>
 </p>
-
