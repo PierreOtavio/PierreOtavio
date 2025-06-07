@@ -17,8 +17,7 @@ Sou estudante do 2º ano do Ensino Médio integrado ao curso técnico de Desenvo
 
 🚗 **Sistema de Controle de Veículos**  
 Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, PHP, Laravel, com foco no gerenciamento de frota e otimização de processos internos.  
-🔗 Versão Web: https://github.com/PierreOtavio/teste2910  
-🔗 Versão Mobile: https://github.com/PierreOtavio/flutter-alfa
+🔗 Versões Web e Mobile: https://github.com/PierreOtavio/projAlfa
 
 ---
 
@@ -31,8 +30,6 @@ Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, P
 - Uso frequente do Visual Studio Code e Visual Studio IDE para codificação e depuração
 
 ---
-
-## 🛠️ Tecnologias
 
 ## 🛠️ Tecnologias
 
