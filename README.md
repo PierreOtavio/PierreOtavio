@@ -54,8 +54,8 @@ Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, P
 
 ## 📫 Contato
 
-- **E-mail:** perresla111@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ot%C3%A1vio-pierre-a232b2333/
+- **E-mail:** otaviopierre.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/otaviopierredev
 - **Divinópolis/MG**
 
 ---
