@@ -1,65 +1,57 @@
-<!-- Banner ou imagem opcional -->
 <h1 align="center">👋 Olá, eu sou o Otávio Pierre!</h1>
 
 <p align="center">
-  <b>16 anos | Divinópolis/MG | Estudante de Desenvolvimento de Sistemas</b>
+  <b>17 anos | Divinópolis/MG | Full Stack Developer @ Viveza (Grupo IGL)</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PierreOtavio&color=orange" alt="Profile views"/>
 </p>
 
 ---
 
 ## 💡 Sobre mim
 
-Sou estudante do 2º ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas no Senac MG. Apaixonado por tecnologia, já atuei em projetos reais como desenvolvedor fullstack, utilizando PHP, Dart, JavaScript, Flutter, Laravel e também C#. Tenho experiência tanto com o Visual Studio Code quanto com o Visual Studio IDE, ferramentas que utilizo para desenvolvimento, testes e integração de sistemas.
+Desenvolvedor Full Stack graduado em Desenvolvimento de Sistemas pelo Senac MG. Atualmente, integro o time da **Viveza (Grupo IGL)**, onde aplico meu conhecimento técnico para criar soluções digitais eficientes e escaláveis. 
+
+Minha trajetória é marcada pela entrega de projetos reais e pela busca constante por arquiteturas de código limpas. Tenho experiência sólida no ecossistema Web e Mobile, transitando com naturalidade entre o desenvolvimento de APIs robustas e interfaces de usuário dinâmicas.
 
 ---
 
-## 🌟 Principais Projetos
+## 💼 Experiência & Projetos
 
-🚗 **Sistema de Controle de Veículos**  
-Desenvolvi um sistema web e mobile para a Alfa Engenharia, utilizando Flutter, PHP, Laravel, com foco no gerenciamento de frota e otimização de processos internos.  
-🔗 Versões Web e Mobile: https://github.com/PierreOtavio/projAlfa
+🚀 **Desenvolvedor Full Stack | Viveza (Grupo IGL)** *Atuação atual focada em desenvolvimento e manutenção de sistemas corporativos.*
 
----
-
-## 🚀 O que eu faço
-
-- Desenvolvimento fullstack (web e mobile)
-- Projetos práticos, como o sistema de controle de veículos (Alfa Engenharia)
-- Participação em cursos, desafios e projetos em equipe
-- Desenvolvimento em C# para automação e integração de módulos
-- Uso frequente do Visual Studio Code e Visual Studio IDE para codificação e depuração
+🚗 **Sistema de Controle de Veículos (Alfa Engenharia)** Desenvolvimento de uma solução completa (Web e Mobile) para gestão de frotas e otimização logística.  
+* **Tech Stack:** Flutter, PHP, Laravel.
+* 🔗 [Repositório do Projeto](https://github.com/PierreOtavio/projAlfa)
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
+### 🌐 Back-end & Web
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📱 Mobile
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 Em busca de
+## 📫 Vamos nos conectar?
 
-- Oportunidades de estágio ou jovem aprendiz em tecnologia
-- Novos aprendizados e desafios em desenvolvimento de software
-- Contribuir para projetos open source
-
----
-
-## 📫 Contato
-
-- **E-mail:** otaviopierre.dev@gmail.com
-- **LinkedIn:** www.linkedin.com/in/otaviopierredev
-- **Divinópolis/MG**
+- **LinkedIn:** [otaviopierredev](https://www.linkedin.com/in/otaviopierredev)
+- **E-mail:** [otaviopierre.dev@gmail.com](mailto:otaviopierre.dev@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PierreOtavio&color=orange" alt="Profile views"/>
+  <i>"Transformando lógica em soluções de alto impacto."</i>
 </p>
