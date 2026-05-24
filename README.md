@@ -1,6 +1,6 @@
 # Hi there, I'm Otávio Pierre! 👋
 
-I am a **Full Stack Developer** passionate about building efficient web and mobile applications. Currently, I am expanding my expertise into **Artificial Intelligence Engineering** and **Cybersecurity**, focused on creating secure, data-driven software architectures.
+I am a **Full Stack Developer** passionate about building efficient web and mobile applications. Currently, I am expanding my knowledge into **Artificial Intelligence Engineering** and **Cybersecurity**, focused on creating secure, data-driven software architectures.
 
 Based in Brazil 🇧🇷 and preparing for future tech opportunities in London 🇬🇧.
 
