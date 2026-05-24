@@ -1,57 +1,45 @@
-<h1 align="center">👋 Olá, eu sou o Otávio Pierre!</h1>
+# Hi there, I'm Otávio Pierre! 👋
 
-<p align="center">
-  <b>17 anos | Divinópolis/MG | Full Stack Developer @ Viveza (Grupo IGL)</b>
-</p>
+I am a **Full Stack Developer** passionate about building efficient web and mobile applications. Currently, I am expanding my expertise into **Artificial Intelligence Engineering** and **Cybersecurity**, focused on creating secure, data-driven software architectures.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PierreOtavio&color=orange" alt="Profile views"/>
-</p>
+Based in Brazil 🇧🇷 and preparing for future tech opportunities in London 🇬🇧.
 
 ---
 
-## 💡 Sobre mim
-
-Desenvolvedor Full Stack graduado em Desenvolvimento de Sistemas pelo Senac MG. Atualmente, integro o time da **Viveza (Grupo IGL)**, onde aplico meu conhecimento técnico para criar soluções digitais eficientes e escaláveis. 
-
-Minha trajetória é marcada pela entrega de projetos reais e pela busca constante por arquiteturas de código limpas. Tenho experiência sólida no ecossistema Web e Mobile, transitando com naturalidade entre o desenvolvimento de APIs robustas e interfaces de usuário dinâmicas.
-
----
-
-## 💼 Experiência & Projetos
-
-🚀 **Desenvolvedor Full Stack | Viveza (Grupo IGL)** *Atuação atual focada em desenvolvimento e manutenção de sistemas corporativos.*
-
-🚗 **Sistema de Controle de Veículos (Alfa Engenharia)** Desenvolvimento de uma solução completa (Web e Mobile) para gestão de frotas e otimização logística.  
-* **Tech Stack:** Flutter, PHP, Laravel.
-* 🔗 [Repositório do Projeto](https://github.com/PierreOtavio/projAlfa)
+### 🚀 About Me
+- 🎓 Finishing my final year of High School, holding a **1,200-hour Professional Technical Degree in Systems Development** from SENAC/MG.
+- 💼 Currently working as a **Full Stack Developer (Jovem Aprendiz)** at Grupo IGL - Viveza.
+- 🧠 Deeply interested in backend optimization, machine learning models, and application security.
+- 🗣️ **English Level:** Fluent (C2 Certified) — fully capable of operating, writing, and speaking in native English environments.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
-### 🌐 Back-end & Web
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages & Frameworks:**
+- **Backend:** PHP / Laravel | C# / .NET
+- **Frontend:** JavaScript / React
+- **Mobile:** Dart / Flutter
 
-### 📱 Mobile
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ⚙️ Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Databases & Tools:**
+- **Databases:** MySQL, Oracle
+- **DevOps & Tools:** Git (Version Control), VS Code, Postman, RESTful APIs
 
 ---
 
-## 📫 Vamos nos conectar?
+### 💼 Professional Highlights & Core Projects
 
-- **LinkedIn:** [otaviopierredev](https://www.linkedin.com/in/otaviopierredev)
-- **E-mail:** [otaviopierre.dev@gmail.com](mailto:otaviopierre.dev@gmail.com)
+#### 🤖 Grupo IGL - Viveza | Full Stack Developer (Feb 2026 - Present)
+- Developed and integrated an **AI-powered product recommendation engine** utilizing computer vision/image processing.
+- Built new features, handled database operations, and continuous performance improvements for core corporate platforms (**FLUX System** and **Portal V2**) using PHP and React.
+
+#### 🚗 Desafio Alfa ID | Web & Mobile Full Stack (Aug 2024 - Apr 2025)
+- Architected a complete **vehicle control and management system** featuring full CRUD implementation, automated push notifications, and custom Excel reporting tools.
+- Developed using a decoupled architecture with **Laravel** power-housing the backend API and **Flutter** delivering the cross-platform mobile application.
 
 ---
 
-<p align="center">
-  <i>"Transformando lógica em soluções de alto impacto."</i>
-</p>
+### 📬 Let's Connect!
+- 📧 **Email:** otaviopierre.dev@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/otaviopierredev/
+- 📍 **Current Location:** Divinópolis, MG, Brazil
